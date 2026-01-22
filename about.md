@@ -10,7 +10,7 @@ This Jekyll blog was created for CSCI-UA 480, a course on Open Source Software D
 
 ## About Me
 
-My name is Ben. I am a student at NYU, majoring in Computer Science. I enjoy creating custom solutions for technical problems. [My work in the past](https://www.linkedin.com/in/deweesevs/details/projects/), through NYU's High Speed Research Network, personal projects and other internships, has allowed me to work on software and hardware, and I plan to continue on that path.
+My name is Ben. I am a student at NYU, majoring in Computer Science. I enjoy creating custom solutions for technical problems. [My work in the past](https://www.linkedin.com/in/deweesevs/details/projects/), through NYU's High Speed Research Network, personal projects and other internships, has allowed me to get experience with software and hardware, and I plan to continue on that path.
 
 ## Class & Blog Goals
 
