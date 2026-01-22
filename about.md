@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# Hello!
-
-This Jekyll blog was created for CSCI-UA 480, a course on Open Source Software Development, offered by New York University.
+Hello! This Jekyll blog was created for CSCI-UA 480, a course on Open Source Software Development, offered by New York University.
 
 ## About Me
 
