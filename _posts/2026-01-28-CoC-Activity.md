@@ -3,11 +3,10 @@ layout: post
 title: Week 2 - Code of Conduct Activity
 ---
 
-# Code of Conduct Activity
-
 ## Part 1:
 
 Having a Code of Conduct document for a project has different benifits. It sets a standard for how contributors must act and resolve conflict in order to ensure the community behind the project is healthy. It lets potential contributors know that the people working on the project have values and that they care about their community - which can in turn encourage people to join.
+<!--more-->
 
 Two Differences between the codes of conduct for the [Go project](https://go.dev/conduct) and the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct/):
 
