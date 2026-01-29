@@ -28,4 +28,4 @@ React adopted the Contributor Covenant Code of Conduct in Issue #[16613](https:/
 This Code of Conduct also applies outside the project spaces when there is a reasonable belief that an individual's behavior may have a negative impact on the project or its community.
 ```
 
-With this phrase, the CoC is more aligned with that of Go's than before. It is reasonable to that this line was added to protect the sponsoring company, Meta, from any potential issues surrounding the developers of the project.
+A similar approach Go's CoC, React's CoC appears to distance sponsoring companies (in this case, Meta) from any potential issues surrounding the developers of the project.
