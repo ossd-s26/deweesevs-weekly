@@ -9,8 +9,7 @@ title: Week 2 - Code of Conduct Activity
 
 Having a Code of Conduct document for a project has different benifits. It sets a standard for how contributors must act and resolve conflict in order to ensure the community behind the project is healthy. It lets potential contributors know that the people working on the project have values and that they care about their community - which can in turn encourage people to join.
 
-Two Differences between the codes of conduct for the [Go project](https://go.dev/conduct) and the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct/):
-
+Two Differences between the codes of conduct for the [Go project](https://go.dev/conduct) and the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct/):  
 	1. Go encourages people to resolve conflicts directly, if possible and pushes for effective communication, while the Contributor Covenant says that individuals should report incidents to be handled by moderators.
 	2. Contributor Covenant states that those who do not follow or enforce the code may face repercussions, while Go does not.
 
