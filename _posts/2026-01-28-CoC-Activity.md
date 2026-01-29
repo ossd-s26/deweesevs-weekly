@@ -23,6 +23,7 @@ The Go Code of Conduct is based on the Contributor Covenant while the Sugar Labs
 ## Part 3:
 
 Selected Open Source Project: [React](https://github.com/facebook/react/blob/main/CODE_OF_CONDUCT.md)
+
 React adopted the Contributor Covenant Code of Conduct in Issue #[16613](https://github.com/facebook/react/pull/16613). However, the React developers added this following sentence to the Scope section: 
 
 ```text
