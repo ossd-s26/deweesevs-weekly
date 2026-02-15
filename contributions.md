@@ -18,6 +18,6 @@ Replace the first row with your own contribution.
 
 | Date # | Contribution (Link) | Type | Description |
 |--------|---------------------|------|-------------|
-| 2026-01-30 | [Pull Request](https://github.com/keycloak/keycloak/pull/45910) | [Tentative] Enhancement to User Interface | I created descriptions for Keycloak's ambiguously named themes and added them to the UI. |
+| 2026-01-30 | [Pull Request](https://github.com/keycloak/keycloak/pull/45910) | Enhancement to User Interface | I created descriptions for Keycloak's ambiguously named themes and added them to the UI. |
 |  |  |  |  |
 |  |  |  |  |
