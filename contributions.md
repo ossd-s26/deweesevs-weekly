@@ -20,4 +20,4 @@ Replace the first row with your own contribution.
 |--------|---------------------|------|-------------|
 | 2026-01-30 | [Pull Request](https://github.com/keycloak/keycloak/pull/45910) | Enhancement to User Interface | I created descriptions for Keycloak's ambiguously named themes and added them to the UI. |
 | 2026-02-15 | [Ticket](https://github.com/joannakl/ossd/issues/152) | Repository Cleanup | I reported `.DS_Store` being tracked in the class repository. |
-|  |  |  |  |
+| 2026-02-22 | [Pull Request](https://github.com/ossd-s26/highlight/pull/13) | Feature Creation | I made a feature so that users can copy MLA citations based on their highlights. |
